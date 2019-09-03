@@ -1,0 +1,1 @@
+node .\todoServer\app.js >todoLog.txt 2>&1

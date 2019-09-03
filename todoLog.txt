@@ -1,0 +1,365 @@
+(node:13052) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
+Mongoose connection open 
+Connection has been made
+(node:13052) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at mongoose.connect (D:\xp_program\todo\Todo\todoServer\app.js:12:42)
+    at $initialConnection.$initialConnection.then (D:\xp_program\todo\Todo\todoServer\node_modules\mongoose\lib\connection.js:680:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:13052) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:13052) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[0mGET / [36m304 [0m51.288 ms - -[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [36m304 [0m41.486 ms - -[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [36m304 [0m37.287 ms - -[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [36m304 [0m43.670 ms - -[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [36m304 [0m47.022 ms - -[0m
+[0mGET /todo/list [32m200 [0m97.648 ms - 3064[0m
+[0mGET /favicon.ico [32m200 [0m70.531 ms - 67646[0m
+[0mGET /todo/list [36m304 [0m19.329 ms - -[0m
+[0mGET /todo/list [36m304 [0m13.782 ms - -[0m
+[0mGET /todo/list [36m304 [0m16.134 ms - -[0m
+[0mGET /todo/list [36m304 [0m15.216 ms - -[0m
+[0mGET /todo/list [36m304 [0m13.524 ms - -[0m
+[0mGET /todo/list [36m304 [0m11.339 ms - -[0m
+[0mGET /?tdsourcetag=s_pctim_aiomsg [32m200 [0m76.032 ms - 2120[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [32m200 [0m50.675 ms - 883[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [32m200 [0m92.332 ms - 269937[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [32m200 [0m124.474 ms - 6007[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [32m200 [0m616.181 ms - 1221914[0m
+[0mGET /todo/list [32m200 [0m11.932 ms - 3064[0m
+[0mGET /favicon.ico [32m200 [0m1.535 ms - 67646[0m
+[0mGET /todo/list [36m304 [0m11.645 ms - -[0m
+[0mGET /todo/list [36m304 [0m11.071 ms - -[0m
+[0mGET /todo/list [36m304 [0m28.881 ms - -[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [36m304 [0m1.378 ms - -[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [36m304 [0m0.852 ms - -[0m
+[0mGET /static/js/main.ff8975a9.chunk.js.map [32m200 [0m1.678 ms - 21752[0m
+[0mGET /static/js/2.7460d7e5.chunk.js.map [32m200 [0m1.760 ms - 3304636[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css.map [32m200 [0m1.879 ms - 91955[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css.map [32m200 [0m1.580 ms - 1237[0m
+[0mGET /todo/list [36m304 [0m10.651 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.225 ms - -[0m
+[0mGET /todo/list [36m304 [0m6.470 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.361 ms - -[0m
+[0mGET /todo/list [36m304 [0m9.112 ms - -[0m
+[0mGET /todo/list [36m304 [0m8.356 ms - -[0m
+[0mGET /todo/list [36m304 [0m12.274 ms - -[0m
+[0mGET /todo/list [36m304 [0m20.481 ms - -[0m
+[0mGET /todo/list [36m304 [0m11.361 ms - -[0m
+[0mGET /todo/list [36m304 [0m9.183 ms - -[0m
+[0mGET /todo/list [36m304 [0m10.813 ms - -[0m
+[0mGET /todo/list [36m304 [0m11.165 ms - -[0m
+[0mGET /todo/list [36m304 [0m14.870 ms - -[0m
+[0mGET /todo/list [36m304 [0m24.256 ms - -[0m
+[0mGET /todo/list [36m304 [0m11.344 ms - -[0m
+[0mGET /todo/list [36m304 [0m11.353 ms - -[0m
+[0mGET /todo/list [36m304 [0m16.517 ms - -[0m
+[0mGET /todo/list [36m304 [0m11.976 ms - -[0m
+[0mGET /todo/list [36m304 [0m17.148 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.833 ms - -[0m
+[0mGET /todo/list [36m304 [0m9.384 ms - -[0m
+[0mGET /todo/list [36m304 [0m9.564 ms - -[0m
+[0mGET /todo/list [36m304 [0m13.235 ms - -[0m
+[0mGET /todo/list [36m304 [0m10.582 ms - -[0m
+[0mGET /todo/list [32m200 [0m16.596 ms - 3064[0m
+[0mGET /todo/list [36m304 [0m7.396 ms - -[0m
+Thu, 29 Aug 2019 08:34:15 GMT express deprecated req.param(name): Use req.params, req.body, or req.query instead at todoServer\routes\todo.js:29:15
+[0mPOST /todo/edit?completed=false&text=%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AE%8C%E6%88%90%E5%85%B1%E4%BA%AB%E5%9C%B0%E5%9D%80%E7%B0%BF%E7%9A%84%E5%BB%BA%E7%AB%8B%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%90%8E%E7%BB%AD%E6%B5%8B%E8%AF%95&id=876f8ea0-bf43-11e9-8131-1390d711c999&remark=11 [32m200 [0m5.694 ms - 149[0m
+[0mGET /todo/list [32m200 [0m1018.588 ms - 3066[0m
+[0mGET /todo/list [32m200 [0m13.196 ms - 3066[0m
+[0mGET /todo/list [36m304 [0m11.549 ms - -[0m
+[0mGET /todo/list [36m304 [0m14.167 ms - -[0m
+[0mGET /todo/list [36m304 [0m14.256 ms - -[0m
+[0mGET /todo/list [36m304 [0m11.155 ms - -[0m
+[0mGET /todo/list [36m304 [0m8.414 ms - -[0m
+[0mGET /todo/list [36m304 [0m13.924 ms - -[0m
+[0mGET / [36m304 [0m2.509 ms - -[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [36m304 [0m1.729 ms - -[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [36m304 [0m2.590 ms - -[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [36m304 [0m0.956 ms - -[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [36m304 [0m0.910 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.833 ms - -[0m
+[0mGET / [36m304 [0m1.634 ms - -[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [36m304 [0m2.556 ms - -[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [36m304 [0m1.811 ms - -[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [36m304 [0m2.557 ms - -[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [36m304 [0m3.019 ms - -[0m
+[0mGET /todo/list [36m304 [0m11.758 ms - -[0m
+[0mGET /todo/list [36m304 [0m14.245 ms - -[0m
+[0mGET /todo/list [36m304 [0m8.039 ms - -[0m
+[0mGET /todo/list [36m304 [0m10.185 ms - -[0m
+[0mGET /todo/list [36m304 [0m11.573 ms - -[0m
+[0mGET /todo/list [36m304 [0m17.863 ms - -[0m
+[0mGET / [36m304 [0m1.002 ms - -[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [36m304 [0m1.107 ms - -[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [36m304 [0m1.122 ms - -[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [36m304 [0m1.087 ms - -[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [36m304 [0m1.088 ms - -[0m
+[0mGET /todo/list [36m304 [0m13.247 ms - -[0m
+[0mPOST /todo/add?completed=false&text=111&id=a5151d90-cafa-11e9-8939-23b027476d50&remark= [32m200 [0m19.786 ms - 114[0m
+[0mGET /todo/list [36m304 [0m10.705 ms - -[0m
+{ _id: 5d68d4f3520f4432fc7caea4,
+  completed: false,
+  text: '111',
+  id: 'a5151d90-cafa-11e9-8939-23b027476d50',
+  remark: '',
+  timeStamp: 1567151347230,
+  __v: 0 }
+[0mGET /todo/list [32m200 [0m11.893 ms - 3222[0m
+[0mGET /todo/list [36m304 [0m21.986 ms - -[0m
+Fri, 30 Aug 2019 07:49:16 GMT express deprecated req.param(name): Use req.params, req.body, or req.query instead at todoServer\routes\todo.js:47:15
+[0mPOST /todo/complete?id=a5151d90-cafa-11e9-8939-23b027476d50 [32m200 [0m1.893 ms - 62[0m
+[0mGET /todo/list [36m304 [0m10.349 ms - -[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [36m304 [0m1.140 ms - -[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [36m304 [0m1.066 ms - -[0m
+[0mGET /static/js/main.ff8975a9.chunk.js.map [32m200 [0m25.565 ms - 21752[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css.map [32m200 [0m16.051 ms - 91955[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css.map [32m200 [0m37.772 ms - 1237[0m
+[0mGET /static/js/2.7460d7e5.chunk.js.map [32m200 [0m23.205 ms - 3304636[0m
+[0mPOST /todo/complete?id=a5151d90-cafa-11e9-8939-23b027476d50 [32m200 [0m0.969 ms - 62[0m
+[0mGET /todo/list [32m200 [0m11.386 ms - 3221[0m
+[0mGET /todo/list [32m200 [0m8.859 ms - 3221[0m
+Fri, 30 Aug 2019 07:49:42 GMT express deprecated req.param(name): Use req.params, req.body, or req.query instead at todoServer\routes\todo.js:65:35
+[0mDELETE /todo/del?id=a5151d90-cafa-11e9-8939-23b027476d50 [32m200 [0m4.065 ms - 45[0m
+(node:13052) DeprecationWarning: Mongoose: `findOneAndUpdate()` and `findOneAndDelete()` without the `useFindAndModify` option set to false are deprecated. See: https://mongoosejs.com/docs/deprecations.html#-findandmodify-
+[0mGET /todo/list [32m200 [0m7.786 ms - 3066[0m
+[0mGET /todo/list [32m200 [0m11.085 ms - 3066[0m
+[0mPOST /todo/add?completed=false&text=123&id=bfa61c40-cafa-11e9-8939-23b027476d50&remark= [32m200 [0m1.660 ms - 114[0m
+{ _id: 5d68d51f520f4432fc7caea5,
+  completed: false,
+  text: '123',
+  id: 'bfa61c40-cafa-11e9-8939-23b027476d50',
+  remark: '',
+  timeStamp: 1567151391800,
+  __v: 0 }
+[0mGET /todo/list [32m200 [0m8.757 ms - 3222[0m
+[0mGET / [32m200 [0m92.606 ms - 2120[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [32m200 [0m15.409 ms - 883[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [32m200 [0m48.008 ms - 269937[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [32m200 [0m118.359 ms - 6007[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css.map [32m200 [0m2.349 ms - 1237[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css.map [32m200 [0m1.972 ms - 91955[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [32m200 [0m448.687 ms - 1221914[0m
+[0mGET /static/js/2.7460d7e5.chunk.js.map [32m200 [0m1.110 ms - 3304636[0m
+[0mGET /todo/list [32m200 [0m9.009 ms - 3222[0m
+[0mGET /static/js/main.ff8975a9.chunk.js.map [32m200 [0m0.943 ms - 21752[0m
+[0mGET /favicon.ico [32m200 [0m14.505 ms - 67646[0m
+[0mDELETE /todo/del?id=bfa61c40-cafa-11e9-8939-23b027476d50 [32m200 [0m1.062 ms - 45[0m
+[0mGET /todo/list [32m200 [0m10.011 ms - 3066[0m
+[0mPOST /todo/add?completed=false&text=889&id=c92ee800-cafa-11e9-8230-17b2d81c4d8d&remark= [32m200 [0m1.204 ms - 114[0m
+{ _id: 5d68d52f520f4432fc7caea6,
+  completed: false,
+  text: '889',
+  id: 'c92ee800-cafa-11e9-8230-17b2d81c4d8d',
+  remark: '',
+  timeStamp: 1567151407803,
+  __v: 0 }
+[0mGET /todo/list [32m200 [0m7.293 ms - 3222[0m
+[0mPOST /todo/edit?completed=false&text=3333&id=c92ee800-cafa-11e9-8230-17b2d81c4d8d&remark=5 [32m200 [0m0.912 ms - 92[0m
+[0mGET /todo/list [32m200 [0m8.051 ms - 3224[0m
+[0mPOST /todo/complete?id=c92ee800-cafa-11e9-8230-17b2d81c4d8d [32m200 [0m0.862 ms - 62[0m
+[0mGET /todo/list [32m200 [0m8.023 ms - 3223[0m
+[0mGET /todo/list [32m200 [0m8.601 ms - 3223[0m
+[0mDELETE /todo/del?id=c92ee800-cafa-11e9-8230-17b2d81c4d8d [32m200 [0m0.966 ms - 45[0m
+[0mGET /todo/list [32m200 [0m9.954 ms - 3066[0m
+[0mGET /todo/list [32m200 [0m9.975 ms - 3066[0m
+[0mGET /todo/list [32m200 [0m12.880 ms - 3066[0m
+[0mGET /todo/list [32m200 [0m7.957 ms - 3066[0m
+[0mGET /todo/list [32m200 [0m7.961 ms - 3066[0m
+[0mGET /todo/list [32m200 [0m7.295 ms - 3066[0m
+[0mGET /todo/list [32m200 [0m11.107 ms - 3066[0m
+[0mGET /todo/list [32m200 [0m9.837 ms - 3066[0m
+[0mGET /index.html [32m200 [0m109.998 ms - 2120[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [32m200 [0m17.186 ms - 269937[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [32m200 [0m80.331 ms - 883[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [32m200 [0m224.237 ms - 6007[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [32m200 [0m292.508 ms - 1221914[0m
+[0mGET /todo/list [32m200 [0m8.721 ms - 3066[0m
+[0mGET /favicon.ico [32m200 [0m33.417 ms - 67646[0m
+[0mPOST /todo/complete?id=d1bc1c50-c7f2-11e9-baf4-1dd567016595 [32m200 [0m1.042 ms - 62[0m
+[0mGET /todo/list [32m200 [0m8.987 ms - 3065[0m
+[0mDELETE /todo/del?id=e2228090-ba76-11e9-a310-1b59d5c2b68d [32m200 [0m0.807 ms - 45[0m
+[0mGET /todo/list [32m200 [0m5.751 ms - 2900[0m
+[0mGET / [36m304 [0m7.859 ms - -[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [36m304 [0m2.252 ms - -[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [36m304 [0m4.294 ms - -[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [36m304 [0m1.037 ms - -[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [36m304 [0m1.085 ms - -[0m
+[0mGET /todo/list [32m200 [0m26.500 ms - 2900[0m
+[0mGET /todo/list [36m304 [0m9.819 ms - -[0m
+[0mGET /todo/list [36m304 [0m6.491 ms - -[0m
+[0mGET /todo/list [36m304 [0m12.104 ms - -[0m
+[0mGET /todo/list [36m304 [0m11.929 ms - -[0m
+[0mGET / [36m304 [0m0.938 ms - -[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [36m304 [0m1.853 ms - -[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [36m304 [0m1.646 ms - -[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [36m304 [0m1.535 ms - -[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [36m304 [0m1.124 ms - -[0m
+[0mGET /todo/list [36m304 [0m6.796 ms - -[0m
+[0mGET /?tdsourcetag=s_pcqq_aiomsg [32m200 [0m44.119 ms - 2120[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [32m200 [0m11.548 ms - 883[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [32m200 [0m13.529 ms - 269937[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [32m200 [0m63.611 ms - 6007[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [32m200 [0m265.336 ms - 1221914[0m
+[0mGET /todo/list [32m200 [0m8.018 ms - 2900[0m
+[0mGET /favicon.ico [32m200 [0m17.459 ms - 67646[0m
+[0mGET /?tdsourcetag=s_pcqq_aiomsg [32m200 [0m1.622 ms - 2120[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [32m200 [0m15.059 ms - 883[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [32m200 [0m6.387 ms - 6007[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [32m200 [0m17.735 ms - 269937[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [32m200 [0m14.354 ms - 1221914[0m
+[0mGET /todo/list [32m200 [0m8.399 ms - 2900[0m
+[0mGET /favicon.ico [32m200 [0m1.436 ms - 67646[0m
+[0mGET / [32m200 [0m1.176 ms - 2120[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [32m200 [0m1.987 ms - 883[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [32m200 [0m2.012 ms - 269937[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [32m200 [0m1.423 ms - 6007[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [32m200 [0m2.464 ms - 1221914[0m
+[0mGET /todo/list [32m200 [0m7.442 ms - 2900[0m
+[0mGET /favicon.ico [32m200 [0m1.359 ms - 67646[0m
+[0mGET /todo/list [36m304 [0m6.803 ms - -[0m
+[0mGET /todo/list [36m304 [0m8.560 ms - -[0m
+[0mGET /todo/list [36m304 [0m10.402 ms - -[0m
+[0mGET /todo/list [36m304 [0m6.941 ms - -[0m
+[0mGET /?tdsourcetag=s_pcqq_aiomsg [32m200 [0m1.465 ms - 2120[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [32m200 [0m3.835 ms - 883[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [32m200 [0m4.506 ms - 6007[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [32m200 [0m4.376 ms - 269937[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [32m200 [0m3.495 ms - 1221914[0m
+[0mGET /todo/list [32m200 [0m10.669 ms - 2900[0m
+[0mGET /favicon.ico [32m200 [0m1.488 ms - 67646[0m
+[0mGET /?tdsourcetag=s_pctim_aiomsg [32m200 [0m1.392 ms - 2120[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [32m200 [0m3.496 ms - 883[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [32m200 [0m2.566 ms - 6007[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [32m200 [0m3.301 ms - 269937[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [32m200 [0m3.479 ms - 1221914[0m
+[0mGET /todo/list [32m200 [0m9.364 ms - 2900[0m
+[0mGET /favicon.ico [32m200 [0m1.599 ms - 67646[0m
+[0mGET / [32m200 [0m1.207 ms - 2120[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [36m304 [0m0.919 ms - -[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [36m304 [0m1.575 ms - -[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [36m304 [0m2.670 ms - -[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [36m304 [0m2.813 ms - -[0m
+[0mGET /todo/list [36m304 [0m8.095 ms - -[0m
+[0mGET /todo/list [36m304 [0m9.261 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.380 ms - -[0m
+[0mGET /todo/list [36m304 [0m9.940 ms - -[0m
+[0mGET /todo/list [36m304 [0m6.605 ms - -[0m
+[0mGET /todo/list [36m304 [0m8.785 ms - -[0m
+[0mGET /todo/list [36m304 [0m9.625 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.681 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.571 ms - -[0m
+[0mGET /?tdsourcetag=s_pctim_aiomsg [32m200 [0m5.540 ms - 2120[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [32m200 [0m2.391 ms - 883[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [32m200 [0m5.669 ms - 269937[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [32m200 [0m1.973 ms - 6007[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [32m200 [0m2.123 ms - 1221914[0m
+[0mGET /todo/list [36m304 [0m9.296 ms - -[0m
+[0mGET /todo/list [32m200 [0m24.138 ms - 2900[0m
+[0mGET /favicon.ico [32m200 [0m27.393 ms - 67646[0m
+[0mGET /?tdsourcetag=s_pctim_aiomsg [32m200 [0m1.082 ms - 2120[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [32m200 [0m2.613 ms - 883[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [32m200 [0m2.512 ms - 269937[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [32m200 [0m2.338 ms - 1221914[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [32m200 [0m1.687 ms - 6007[0m
+[0mGET /todo/list [32m200 [0m18.566 ms - 2900[0m
+[0mGET /todo/list [36m304 [0m9.324 ms - -[0m
+[0mGET /todo/list [36m304 [0m6.223 ms - -[0m
+[0mGET /todo/list [36m304 [0m5.473 ms - -[0m
+[0mGET /todo/list [36m304 [0m5.794 ms - -[0m
+[0mGET /todo/list [36m304 [0m8.292 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.550 ms - -[0m
+[0mGET /todo/list [36m304 [0m5.686 ms - -[0m
+[0mGET /todo/list [36m304 [0m11.379 ms - -[0m
+[0mGET /todo/list [36m304 [0m9.027 ms - -[0m
+[0mGET /todo/list [36m304 [0m8.657 ms - -[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [36m304 [0m1.400 ms - -[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [36m304 [0m1.065 ms - -[0m
+[0mGET /static/js/main.ff8975a9.chunk.js.map [32m200 [0m35.096 ms - 21752[0m
+[0mGET /static/js/2.7460d7e5.chunk.js.map [32m200 [0m67.351 ms - 3304636[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css.map [32m200 [0m17.425 ms - 1237[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css.map [32m200 [0m27.971 ms - 91955[0m
+[0mGET /todo/list [36m304 [0m6.089 ms - -[0m
+[0mGET /todo/list [36m304 [0m12.446 ms - -[0m
+[0mGET /todo/list [36m304 [0m9.296 ms - -[0m
+[0mGET /todo/list [36m304 [0m8.579 ms - -[0m
+[0mGET /todo/list [36m304 [0m5.868 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.946 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.554 ms - -[0m
+[0mGET /todo/list [36m304 [0m10.762 ms - -[0m
+[0mGET /todo/list [36m304 [0m5.795 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.193 ms - -[0m
+[0mGET /todo/list [36m304 [0m6.741 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.949 ms - -[0m
+[0mPOST /todo/add?completed=false&text=%E6%9D%A5%E8%87%AA%E5%85%AD%E4%B8%89%E4%B8%80%E4%B8%83%E7%9A%84%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95&id=49d6aab0-cde9-11e9-a7f2-194be117d303&remark=%E5%8F%AF%E5%88%A0%E9%99%A4 [32m200 [0m2.974 ms - 153[0m
+{ _id: 5d6dc052520f4432fc7caea7,
+  completed: false,
+  text: '来自六三一七的一个测试',
+  id: '49d6aab0-cde9-11e9-a7f2-194be117d303',
+  remark: '可删除',
+  timeStamp: 1567473746137,
+  __v: 0 }
+[0mGET /todo/list [32m200 [0m6.826 ms - 3095[0m
+[0mGET /todo/list [32m200 [0m7.888 ms - 3095[0m
+[0mDELETE /todo/del?id=49d6aab0-cde9-11e9-a7f2-194be117d303 [32m200 [0m1.696 ms - 45[0m
+[0mGET /todo/list [32m200 [0m5.727 ms - 2900[0m
+[0mGET /?tdsourcetag=s_pcqq_aiomsg [36m304 [0m1.006 ms - -[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [36m304 [0m2.329 ms - -[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [36m304 [0m4.153 ms - -[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [36m304 [0m1.971 ms - -[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [36m304 [0m1.871 ms - -[0m
+[0mGET /todo/list [36m304 [0m8.296 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m1.540 ms - 67646[0m
+[0mGET /?tdsourcetag=s_pctim_aiomsg [36m304 [0m0.979 ms - -[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [36m304 [0m1.202 ms - -[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [36m304 [0m0.842 ms - -[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [36m304 [0m1.064 ms - -[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [36m304 [0m0.959 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.687 ms - -[0m
+[0mGET /todo/list [36m304 [0m8.446 ms - -[0m
+[0mGET /todo/list [36m304 [0m5.739 ms - -[0m
+[0mGET /todo/list [36m304 [0m5.364 ms - -[0m
+[0mGET /todo/list [36m304 [0m6.633 ms - -[0m
+[0mGET /todo/list [36m304 [0m10.222 ms - -[0m
+[0mGET /todo/list [36m304 [0m6.924 ms - -[0m
+[0mGET /todo/list [36m304 [0m6.164 ms - -[0m
+[0mGET /todo/list [36m304 [0m5.654 ms - -[0m
+[0mGET /todo/list [36m304 [0m9.574 ms - -[0m
+[0mGET /todo/list [36m304 [0m6.856 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.871 ms - -[0m
+[0mGET /todo/list [36m304 [0m11.993 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.443 ms - -[0m
+[0mGET /todo/list [36m304 [0m6.038 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.814 ms - -[0m
+[0mGET /todo/list [36m304 [0m8.523 ms - -[0m
+[0mGET /todo/list [36m304 [0m8.468 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.369 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.026 ms - -[0m
+[0mGET /todo/list [36m304 [0m5.972 ms - -[0m
+[0mGET /todo/list [36m304 [0m11.730 ms - -[0m
+[0mGET /todo/list [36m304 [0m8.221 ms - -[0m
+[0mGET /todo/list [36m304 [0m6.305 ms - -[0m
+[0mGET /todo/list [36m304 [0m6.368 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.748 ms - -[0m
+[0mGET /todo/list [36m304 [0m7.573 ms - -[0m
+[0mGET / [32m200 [0m2.226 ms - 2120[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [32m200 [0m6.757 ms - 883[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [32m200 [0m7.258 ms - 6007[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [32m200 [0m5.476 ms - 269937[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [32m200 [0m7.007 ms - 1221914[0m
+[0mGET /todo/list [32m200 [0m7.046 ms - 2900[0m
+[0mGET /favicon.ico [32m200 [0m1.269 ms - 67646[0m
+[0mGET / [36m304 [0m0.919 ms - -[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [36m304 [0m0.827 ms - -[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [36m304 [0m0.729 ms - -[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [36m304 [0m1.011 ms - -[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [36m304 [0m1.143 ms - -[0m
+[0mGET /todo/list [36m304 [0m5.582 ms - -[0m
+[0mGET /favicon.ico [32m200 [0m1.373 ms - 67646[0m
+[0mGET /index.html [32m200 [0m13.135 ms - 2120[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [32m200 [0m4.025 ms - 883[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [32m200 [0m18.768 ms - 269937[0m
+[0mGET /static/js/main.ff8975a9.chunk.js [32m200 [0m114.898 ms - 6007[0m
+[0mGET /static/js/2.7460d7e5.chunk.js [32m200 [0m277.717 ms - 1221914[0m
+[0mGET /todo/list [32m200 [0m20.869 ms - 2900[0m
+[0mGET /todo/list [36m304 [0m7.335 ms - -[0m
+[0mGET /todo/list [36m304 [0m9.402 ms - -[0m
