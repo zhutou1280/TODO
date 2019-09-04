@@ -22,7 +22,7 @@ Server 使用 express 搭建，未使用模板引擎。
 
 ### 4. 日志记录
 
-日志通过标准输出重定向到 todoLog.txt
+日志通过标准输出重定向到 todoLog.txt。
 
 ### 5. 打包部署
 
