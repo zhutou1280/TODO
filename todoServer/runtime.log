@@ -1,0 +1,15 @@
+(node:21902) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
+Mongoose connection open 
+Connection has been made
+(node:21902) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
+    at mongoose.connect (/home/git/todo/TODO/todoServer/app.js:12:42)
+    at $initialConnection.$initialConnection.then (/home/git/todo/TODO/todoServer/node_modules/mongoose/lib/connection.js:680:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:21902) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:21902) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[0mGET / [32m200 [0m7.025 ms - 2120[0m
+[0mGET /static/css/main.a6b66d6c.chunk.css [32m200 [0m0.621 ms - 883[0m
+[0mGET /static/js/main.80473239.chunk.js [32m200 [0m0.436 ms - 5740[0m
+[0mGET /static/css/2.1ddb4be2.chunk.css [32m200 [0m1.312 ms - 269937[0m
+[0mGET /static/js/2.a0a8fe13.chunk.js [32m200 [0m1.295 ms - 1221914[0m
+[0mGET /todo/list [36m304 [0m24.832 ms - -[0m
